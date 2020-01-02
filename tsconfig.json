@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "rootDir": "src",
+    "target": "esnext",
+    "declaration": true,
+    "moduleResolution": "node"
+  },
+  "include": ["src/**/*"]
+}

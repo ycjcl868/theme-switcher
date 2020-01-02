@@ -1,0 +1,31 @@
+{
+  "name": "theme-switcher",
+  "version": "1.0.0",
+  "description": "a theme switcher tool",
+  "unpkg": "dist/index.min.js",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "coverage": "umi-test --coverage",
+    "test": "umi-test",
+    "build": "father-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycjcl868/theme-switcher.git"
+  },
+  "author": "ycjcl868",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycjcl868/theme-switcher/issues"
+  },
+  "homepage": "https://github.com/ycjcl868/theme-switcher#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "father-build": "^1.17.1",
+    "umi-test": "^1.9.1"
+  }
+}
