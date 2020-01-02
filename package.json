@@ -1,6 +1,6 @@
 {
   "name": "theme-switcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a theme switcher tool",
   "unpkg": "dist/index.min.js",
   "main": "dist/index.js",
