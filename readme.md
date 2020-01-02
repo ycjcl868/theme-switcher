@@ -1,6 +1,6 @@
 # Theme Switcher
 
-[![codecov](https://codecov.io/gh/ycjcl868/theme-switcher/branch/master/graph/badge.svg)](https://codecov.io/gh/ycjcl868/theme-switcher)[![CircleCI](https://circleci.com/gh/ycjcl868/theme-switcher/tree/master.svg?style=svg)](https://circleci.com/gh/ycjcl868/theme-switcher/tree/master)
+[![codecov](https://codecov.io/gh/ycjcl868/theme-switcher/branch/master/graph/badge.svg)](https://codecov.io/gh/ycjcl868/theme-switcher) [![CircleCI](https://circleci.com/gh/ycjcl868/theme-switcher/tree/master.svg?style=svg)](https://circleci.com/gh/ycjcl868/theme-switcher/tree/master)
 
 ## Usage
 
