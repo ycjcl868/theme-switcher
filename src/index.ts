@@ -40,7 +40,7 @@ const themeSwitcher = (config: Config): Result => {
   }
 
   // support SSR
-  if (!isBrowser) {
+  if (!isBrowser()) {
     // @ts-ignore
     return () => {};
   }
