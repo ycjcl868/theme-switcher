@@ -56,7 +56,7 @@ const themeSwitcher = (config: Config): Result => {
       stylePrefetch.type = 'text/css';
       stylePrefetch.id = themeAssetId;
       stylePrefetch.href = themeMap[theme];
-      document.body.append(stylePrefetch);
+      document.head.append(stylePrefetch);
     }
   })
 
