@@ -7,7 +7,7 @@
 Browser
 
 ```html
-<script src="/dist/index.min.js"></script>
+<script src="//unpkg.alibaba-inc.com/theme-switcher/dist/index.min.js"></script>
 <script>
 var themeSwitcher = window.ThemeSwitcher({
   themeMap: {
